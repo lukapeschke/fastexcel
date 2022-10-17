@@ -1,3 +1,5 @@
+# ARCHIVED, SEE https://github.com/ToucanToco/fastexcel instead
+
 # How to launch
 
 First, install [`maturin`](https://github.com/PyO3/maturin).
